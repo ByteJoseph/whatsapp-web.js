@@ -28,13 +28,14 @@
     "url": "https://github.com/pedroslopez/whatsapp-web.js/issues"
   },
   "homepage": "https://wwebjs.dev/",
-  "dependencies": {
-    "@pedroslopez/moduleraid": "^5.0.2",
-    "fluent-ffmpeg",
-    "mime",
-    "node-fetch",
-    "node-webpmux",
-    "puppeteer",
+  "dependencies": {    
+    "@pedroslopez/moduleraid": "*",
+    "fluent-ffmpeg": "*",
+    "mime": "*",
+    "node-fetch": "*",
+    "node-webpmux": "*",
+    "puppeteer": "*"
+
   },
   "devDependencies": {
     "@types/node-fetch": "^2.5.12",
